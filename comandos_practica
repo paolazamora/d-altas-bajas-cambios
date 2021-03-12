@@ -1,0 +1,28 @@
+*comandos para la creación e importación de proyecto a un servidor web
+
+    @user:~$ cd Escritorio
+    @user:~$ npm install -g create-react-app
+    @user:~$ create-react-app abc
+    
+*copiar el codigo fuente a la carpeta
+
+*abrir la carpeta en visual studio code
+
+    @user:~$npm start
+
+*cambiar ruta en el archivo:
+
+    package.json
+
+*agregar los parametros del servidor destino:
+
+     "homepage": "http://forestalvizcaya.siadurangomex.com/abc/",
+
+*compilar el proyecto
+   
+    @user:~$npm run build
+
+*comprimir la carpeta buil que se genera dentro del proyecto
+*subir la carpeta comprimida al servidor
+*descomprimir la carpeta en la ruta determinada
+
